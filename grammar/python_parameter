@@ -1,0 +1,9 @@
+## python parameter
+
+#### simple parameter
+#### excess parameter
+- *args : arguments
+- **kwargs : key word arguments
+#### nested parameter
+## reference 
+- https://stackoverflow.com/questions/36901/what-does-double-star-asterisk-and-star-asterisk-do-for-parameters
